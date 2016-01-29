@@ -296,6 +296,6 @@ input {
 .pulldown {
     position: absolute;
     z-index: 100;
-    top: 0;
-    left: 50%;
+    top: 10%;
+    left: 1%;
 }
