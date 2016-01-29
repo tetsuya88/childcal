@@ -205,7 +205,7 @@ input {
 /*ジオコーディング*/
 
 .geocode {
-	opacity:0.7;
+	
 	position:absolute;
 	top:18px;
 	left:55px;
@@ -298,7 +298,15 @@ input {
 .pulldown {
     position: absolute;
     z-index: 100;
-    top: 10%;
-    left: 1%;
+    top: 15px;
+    left: 160px;
     background-color: azure;
+    
+}
+
+#logo{
+    position:absolute;
+    z-index: 10000;
+    top:75%;
+    left:2%
 }
