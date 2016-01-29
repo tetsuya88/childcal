@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>１２月第２週イベント</name>
+
+	<StyleMap id="Style2-point-1-map">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style2-point-1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style2-point-1-hover</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style2-point-1">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/mon2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="Style2-point-1-hover">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/mon2.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	
+	
+	
+	
+	
+
+	
+	
+		<StyleMap id="Style3-point-1-map">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style3-point-1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style3-point-1-hover</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style3-point-1">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/tue2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="Style3-point-1-hover">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/tue2.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	
+	
+	
+	
+	
+	
+			<StyleMap id="Style4-point-1-map">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style4-point-1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style4-point-1-hover</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style4-point-1">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/wed2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="Style4-point-1-hover">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/wed2.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+
+	
+	
+	
+	
+	
+			<StyleMap id="Style5-point-1-map">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style5-point-1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style5-point-1-hover</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style5-point-1">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/thu2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="Style5-point-1-hover">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/thu2.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+
+	
+	
+	
+	
+			<StyleMap id="Style6-point-1-map">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style6-point-1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style6-point-1-hover</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style6-point-1">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/fri2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="Style6-point-1-hover">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/fri2.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+
+	
+	
+	
+		
+	
+			<StyleMap id="Style7-point-1-map">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style7-point-1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style7-point-1-hover</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style7-point-1">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/sat2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="Style7-point-1-hover">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/sat2.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+
+	
+	
+
+	
+		
+	
+			<StyleMap id="Style8-point-1-map">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style8-point-1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style8-point-1-hover</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style8-point-1">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/sun2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="Style8-point-1-hover">
+		<IconStyle>
+			
+			<Icon>
+				<href>img/sun2.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+
+
+
+
+
+
+	<Placemark>
+		<name>10</name>
+		<address>東京都日野市多摩平2-9 多摩平の森ふれあい館2階</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 10<br>
+<b>曜日:</b> 木<br>
+<b>時間:</b> 11:00 ~ 11:15<br>
+<b>イベント担当施設・団体名:</b> 地域子ども家庭支援センター多摩平<br>
+<b>住所:</b> 東京都日野市多摩平2-9 多摩平の森ふれあい館2階<br>
+<b>内 容:</b> にこにこタイム☆X'masスペシャル☆ (0~3歳児)<br>
+<b>問合せ先:</b> 589-1260<br>
+<b>備考(場所,注意事項など):</b> 12月は☆X'mas☆を楽しみましょう。
+</div>]]></description>
+		<styleUrl>#Style5-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>木</value>
+
+			</Data>
+			<Data name="時間">
+				<value>11:00 ~ 11:15</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>地域子ども家庭支援センター多摩平</value>
+			</Data>
+			<Data name="内 容">
+				<value>にこにこタイム☆X&apos;masスペシャル☆ (0~3歳児)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>589-1260</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>12月は☆X&apos;mas☆を楽しみましょう。</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3815952,35.6633284,500</coordinates>
+		</Point>
+		<coordinates>
+					139.378040389264,35.6606622919479,0 139.378040389264,35.6659945080521,0 139.385150010736,35.6659945080521,0 139.385150010736,35.6606622919479,0 139.378040389264,35.6606622919479,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>10</name>
+		<address>東京都日野市万願寺４丁目２０ 万願寺交流センター</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 10<br>
+<b>曜日:</b> 木<br>
+<b>時間:</b> 11:00 ~ 11:45<br>
+<b>イベント担当施設・団体名:</b> 日野子育てパートナーの会<br>
+<b>住所:</b> 東京都日野市万願寺４丁目２０ 万願寺交流センター<br>
+<b>内 容:</b> おしゃべりタイム「子どものイヤイヤと のつきあい方、ほめ方、しかり方」 助言者 原田 小夜子さん(幼稚園園 長)<br>
+<b>問合せ先:</b> 587-6276<br>
+<b>備考(場所,注意事項など):</b> 万願寺交流センター 「みんなのはらっぱ」万願寺
+</div>]]></description>
+		<styleUrl>#Style5-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>木</value>
+
+			</Data>
+			<Data name="時間">
+				<value>11:00 ~ 11:45</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>日野子育てパートナーの会</value>
+			</Data>
+			<Data name="内 容">
+				<value>おしゃべりタイム「子どものイヤイヤと のつきあい方、ほめ方、しかり方」 助言者 原田 小夜子さん(幼稚園園 長)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>587-6276</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>万願寺交流センター 「みんなのはらっぱ」万願寺</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4154302,35.6710053,500</coordinates>
+		</Point>
+		<coordinates>
+					139.411875740187,35.6683394551405,0 139.411875740187,35.6736711448595,0 139.418984659813,35.6736711448595,0 139.418984659813,35.6683394551405,0 139.411875740187,35.6683394551405,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>10</name>
+		<address>東京都日野市日野３１１−３</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 10<br>
+<b>曜日:</b> 木<br>
+<b>時間:</b> 11:15 ~ 12:15<br>
+<b>イベント担当施設・団体名:</b> 日野第二保育園<br>
+<b>住所:</b> 東京都日野市日野３１１−３<br>
+<b>内 容:</b> 試食会(0歳児)<br>
+<b>問合せ先:</b> 581-3788<br>
+<b>備考(場所,注意事項など):</b> 要予約 ・費用実費 ・0歳児はH26,4,2 ~H27,4,1までの生まれ
+</div>]]></description>
+		<styleUrl>#Style5-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>木</value>
+
+			</Data>
+			<Data name="時間">
+				<value>11:15 ~ 12:15</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>日野第二保育園</value>
+			</Data>
+			<Data name="内 容">
+				<value>試食会(0歳児)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>581-3788</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>要予約 ・費用実費 ・0歳児はH26,4,2 ~H27,4,1までの生まれ</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4064112,35.6723904,500</coordinates>
+		</Point>
+		<coordinates>
+					139.402856795019,35.6697245962643,0 139.402856795019,35.6750562037357,0 139.409965604981,35.6750562037357,0 139.409965604981,35.6697245962643,0 139.402856795019,35.6697245962643,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<address>東京都日野市日野本町２丁目１４−１</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 11<br>
+<b>曜日:</b> 金<br>
+<b>時間:</b> 9:30 ~ 11:15<br>
+<b>イベント担当施設・団体名:</b> 第三幼稚園<br>
+<b>住所:</b> 東京都日野市日野本町２丁目１４−１<br>
+<b>内 容:</b> なかよしキッズ「クリスマス飾りを作ろ う!」<br>
+<b>問合せ先:</b> 581-7127<br>
+<b>備考(場所,注意事項など):</b> 当日受付できます。持ち物:上履き
+</div>]]></description>
+		<styleUrl>#Style6-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>金</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:30 ~ 11:15</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>第三幼稚園</value>
+			</Data>
+			<Data name="内 容">
+				<value>なかよしキッズ「クリスマス飾りを作ろ う!」</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>581-7127</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>当日受付できます。持ち物:上履き</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3996755,35.6768593,500</coordinates>
+		</Point>
+		<coordinates>
+					139.396121292414,35.6741936443102,0 139.396121292414,35.6795249556898,0 139.403229707586,35.6795249556898,0 139.403229707586,35.6741936443102,0 139.396121292414,35.6741936443102,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<address>東京都日野市三沢２００</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 11<br>
+<b>曜日:</b> 金<br>
+<b>時間:</b> 10:00 ~ 11:00<br>
+<b>イベント担当施設・団体名:</b> みさわ保育園<br>
+<b>住所:</b> 東京都日野市三沢２００<br>
+<b>内 容:</b> リズムにのってあそぼう<br>
+<b>問合せ先:</b> 591-6131<br>
+<b>備考(場所,注意事項など):</b> 動きやすい服装
+</div>]]></description>
+		<styleUrl>#Style6-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>金</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:00 ~ 11:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>みさわ保育園</value>
+			</Data>
+			<Data name="内 容">
+				<value>リズムにのってあそぼう</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>591-6131</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>動きやすい服装</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4247713,35.6613311,500</coordinates>
+		</Point>
+		<coordinates>
+					139.421216401533,35.6586649261497,0 139.421216401533,35.6639972738503,0 139.428326198467,35.6639972738503,0 139.428326198467,35.6586649261497,0 139.421216401533,35.6586649261497,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<address>東京都日野市栄町２丁目１３−４</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 11<br>
+<b>曜日:</b> 金<br>
+<b>時間:</b> 10:00 ~ 12:00<br>
+<b>イベント担当施設・団体名:</b> さかえまち児童館<br>
+<b>住所:</b> 東京都日野市栄町２丁目１３−４<br>
+<b>内 容:</b> プレイルーム<br>
+<b>問合せ先:</b> 585-8281<br>
+<b>備考(場所,注意事項など):</b> さかえまち児童館
+</div>]]></description>
+		<styleUrl>#Style6-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>金</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:00 ~ 12:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>さかえまち児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>プレイルーム</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>585-8281</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>さかえまち児童館</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3917066,35.683214,500</coordinates>
+		</Point>
+		<coordinates>
+					139.388152677539,35.6805485581541,0 139.388152677539,35.6858794418459,0 139.395260522461,35.6858794418459,0 139.395260522461,35.6805485581541,0 139.388152677539,35.6805485581541,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<address>東京都日野市日野1183-3</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 11<br>
+<b>曜日:</b> 金<br>
+<b>時間:</b> 10:30 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> 子育てひろば「至誠スマイル」<br>
+<b>住所:</b> 東京都日野市日野1183-3<br>
+<b>内 容:</b> クリスマス会<br>
+<b>問合せ先:</b> 581-0448<br>
+<b>備考(場所,注意事項など):</b> 至誠第二保育園 子どもの家(要予約)
+</div>]]></description>
+		<styleUrl>#Style6-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>金</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:30 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>子育てひろば「至誠スマイル」</value>
+			</Data>
+			<Data name="内 容">
+				<value>クリスマス会</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>581-0448</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>至誠第二保育園 子どもの家(要予約)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4076275,35.6803092,500</coordinates>
+		</Point>
+		<coordinates>
+					139.404073445943,35.6776436594569,0 139.404073445943,35.6829747405431,0 139.411181554057,35.6829747405431,0 139.411181554057,35.6776436594569,0 139.404073445943,35.6776436594569,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<address>東京都日野市三沢２１７−１ みさわ児童館</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 11<br>
+<b>曜日:</b> 金<br>
+<b>時間:</b> 10:30 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> みさわ児童館<br>
+<b>住所:</b> 東京都日野市三沢２１７−１ みさわ児童館<br>
+<b>内 容:</b> えほんの会<br>
+<b>問合せ先:</b> 591-3456<br>
+<b>備考(場所,注意事項など):</b> 「日野おはなしの会」による、絵本の読み 聞かせ
+</div>]]></description>
+		<styleUrl>#Style6-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>金</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:30 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>みさわ児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>えほんの会</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>591-3456</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>「日野おはなしの会」による、絵本の読み 聞かせ</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4246406,35.6609387,500</coordinates>
+		</Point>
+		<coordinates>
+					139.421085690567,35.658272517925,0 139.421085690567,35.663604882075,0 139.428195509433,35.663604882075,0 139.428195509433,35.658272517925,0 139.421085690567,35.658272517925,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<address>東京都日野市多摩平２丁目９</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 11<br>
+<b>曜日:</b> 金<br>
+<b>時間:</b> 11:00 ~ 11:45<br>
+<b>イベント担当施設・団体名:</b> たまだいら児童館ふれっしゅ<br>
+<b>住所:</b> 東京都日野市多摩平２丁目９<br>
+<b>内 容:</b> げんきっず(出張公園児童館)<br>
+<b>問合せ先:</b> 589-1253<br>
+<b>備考(場所,注意事項など):</b> 多摩平第一公園 雨天中止
+</div>]]></description>
+		<styleUrl>#Style6-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>金</value>
+
+			</Data>
+			<Data name="時間">
+				<value>11:00 ~ 11:45</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>たまだいら児童館ふれっしゅ</value>
+			</Data>
+			<Data name="内 容">
+				<value>げんきっず(出張公園児童館)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>589-1253</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>多摩平第一公園 雨天中止</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3823804,35.6633853,500</coordinates>
+		</Point>
+		<coordinates>
+					139.37882560023,35.6607192001727,0 139.37882560023,35.6660513998273,0 139.38593519977,35.6660513998273,0 139.38593519977,35.6607192001727,0 139.37882560023,35.6607192001727,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<address>東京都日野市程久保８７６−２</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 11<br>
+<b>曜日:</b>金<br>
+<b>時間:</b> 11:00 ~ 12:00<br>
+<b>イベント担当施設・団体名:</b> 子育てひろば程久保「あかいやね」<br>
+<b>住所:</b> 東京都日野市程久保８７６−２<br>
+<b>内 容:</b> 誕生会<br>
+<b>問合せ先:</b> 594-7841<br>
+<b>備考(場所,注意事項など):</b> みんなで12月生まれのお友達をお祝いし ませんか。12月生まれのお友達は11時ま でにお越しください。バースデーカードをプ レゼントします。
+</div>]]></description>
+		<styleUrl>#Style6-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>金</value>
+
+			</Data>
+			<Data name="時間">
+				<value>11:00 ~ 12:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>子育てひろば程久保「あかいやね」</value>
+			</Data>
+			<Data name="内 容">
+				<value>誕生会</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>594-7841</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>みんなで12月生まれのお友達をお祝いし ませんか。12月生まれのお友達は11時ま でにお越しください。バースデーカードをプ レゼントします。</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4159171,35.6515765,500</coordinates>
+		</Point>
+		<coordinates>
+					139.412361773845,35.6489100053838,0 139.412361773845,35.6542429946162,0 139.419472426155,35.6542429946162,0 139.419472426155,35.6489100053838,0 139.412361773845,35.6489100053838,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市三沢１７５</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 9:30 ~ 11:00<br>
+<b>イベント担当施設・団体名:</b> 第五幼稚園<br>
+<b>住所:</b> 東京都日野市三沢１７５<br>
+<b>内 容:</b> 12月生まれの誕生会<br>
+<b>問合せ先:</b> 592-0432<br>
+<b>備考(場所,注意事項など):</b> プチっこエントリー登録者のみ。参加され る方は事前にご連絡ください。
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:30 ~ 11:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>第五幼稚園</value>
+			</Data>
+			<Data name="内 容">
+				<value>12月生まれの誕生会</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>592-0432</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>プチっこエントリー登録者のみ。参加され る方は事前にご連絡ください。</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4225881,35.6608644,500</coordinates>
+		</Point>
+		<coordinates>
+					139.4190331796,35.6581982097002,0 139.4190331796,35.6635305902998,0 139.4261430204,35.6635305902998,0 139.4261430204,35.6581982097002,0 139.4190331796,35.6581982097002,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>11</name>
+		<address>東京都日野市日野３１１−３</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 11<br>
+<b>曜日:</b>金<br>
+<b>時間:</b> 11:15 ~ 12:15<br>
+<b>イベント担当施設・団体名:</b> 日野第二保育園<br>
+<b>住所:</b> 東京都日野市日野３１１−３<br>
+<b>内 容:</b> 試食会(1~3歳児)<br>
+<b>問合せ先:</b> 581-3788<br>
+<b>備考(場所,注意事項など):</b> 要予約 ・費用実費 ・1歳児はH25,4,2 ~H26,4,1までの生まれ
+</div>]]></description>
+		<styleUrl>#Style6-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>金</value>
+
+			</Data>
+			<Data name="時間">
+				<value>11:15 ~ 12:15</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>日野第二保育園</value>
+			</Data>
+			<Data name="内 容">
+				<value>試食会(1~3歳児)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>581-3788</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>要予約 ・費用実費 ・1歳児はH25,4,2 ~H26,4,1までの生まれ</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4064112,35.6723904,500</coordinates>
+		</Point>
+		<coordinates>
+					139.402856795019,35.6697245962643,0 139.402856795019,35.6750562037357,0 139.409965604981,35.6750562037357,0 139.409965604981,35.6697245962643,0 139.402856795019,35.6697245962643,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市旭が丘2-4</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 9:30 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> 第七幼稚園<br>
+<b>住所:</b> 東京都日野市旭が丘2-4<br>
+<b>内 容:</b> ちゅうりっぷの日「クリスマス飾りを作 ろう!」<br>
+<b>問合せ先:</b> 586-3770<br>
+<b>備考(場所,注意事項など):</b> 第七幼稚園・上履き持参(親子共) 汚れてもいい服装・着替えなど(園庭開放 ~12:00)
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:30 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>第七幼稚園</value>
+			</Data>
+			<Data name="内 容">
+				<value>ちゅうりっぷの日「クリスマス飾りを作 ろう!」</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>586-3770</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>第七幼稚園・上履き持参(親子共) 汚れてもいい服装・着替えなど(園庭開放 ~12:00)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3715564,35.66254929999999,500</coordinates>
+		</Point>
+		<coordinates>
+					139.364446690797,35.6572170180976,0 139.364446690797,35.6678815819024,0 139.378666109203,35.6678815819024,0 139.378666109203,35.6572170180976,0 139.364446690797,35.6572170180976,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>12</name>
+		<address>東京都日野市東豊田２丁目２０−２</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 12<br>
+<b>曜日:</b> 土<br>
+<b>時間:</b> 9:30 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> 日野ふたば幼稚園<br>
+<b>住所:</b> 東京都日野市東豊田２丁目２０−２<br>
+<b>内 容:</b>  幼稚園で楽しく遊ぼう!!<br>
+<b>問合せ先:</b> 581-3828<br>
+<b>備考(場所,注意事項など):</b> 持ち物:上ばき
+</div>]]></description>
+		<styleUrl>#Style7-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>土</value>
+			</Data>
+			<Data name="時間">
+				<value>9:30 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>日野ふたば幼稚園</value>
+			</Data>
+			<Data name="内 容">
+				<value><![CDATA[<ほっとルーム> 幼稚園で楽しく遊ぼう!!]]></value>
+			</Data>
+			<Data name="問合せ先">
+				<value>581-3828</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>持ち物:上ばき</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3884801,35.6608301,500</coordinates>
+		</Point>
+		<coordinates>
+					139.3849251796,35.6581639097002,0 139.3849251796,35.6634962902998,0 139.3920350204,35.6634962902998,0 139.3920350204,35.6581639097002,0 139.3849251796,35.6581639097002,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都旭が丘２丁目４２−１</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 9:45 ~ 11:00<br>
+<b>イベント担当施設・団体名:</b> あさひがおか保育園<br>
+<b>住所:</b> 東京都旭が丘２丁目４２−１<br>
+<b>内 容:</b> 園庭開放<br>
+<b>問合せ先:</b> 581-7676<br>
+<b>備考(場所,注意事項など):</b> 保育園園庭
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:45 ~ 11:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>あさひがおか保育園</value>
+			</Data>
+			<Data name="内 容">
+				<value>園庭開放</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>581-7676</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>保育園園庭</value>
+			</Data>
+		</ExtendedData>
+	</Placemark>
+	<Placemark>
+		<name>12</name>
+		<address>東京都日野市万願寺４丁目２０−１２</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 12<br>
+<b>曜日:</b> 土<br>
+<b>時間:</b> 10:30 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> まんがんじ児童館<br>
+<b>住所:</b> 東京都日野市万願寺４丁目２０−１２<br>
+<b>内 容:</b> もちつき大会<br>
+<b>問合せ先:</b> 583-3309<br>
+<b>備考(場所,注意事項など):</b> 事前申し込み 詳しくは直接児童館に問い 合わせてください。
+</div>]]></description>
+		<styleUrl>#Style7-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>土</value>
+			</Data>
+			<Data name="時間">
+				<value>10:30 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>まんがんじ児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>もちつき大会</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>583-3309</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>事前申し込み 詳しくは直接児童館に問い 合わせてください。</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4148021,35.671463,500</coordinates>
+		</Point>
+		<coordinates>
+					139.41124766212,35.66879717159,0 139.41124766212,35.67412882841,0 139.41835653788,35.67412882841,0 139.41835653788,35.66879717159,0 139.41124766212,35.66879717159,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市万願寺２丁目２４−７ 万願寺タウンビル 2F</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 10:00 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> 地域子ども家庭支援センター万願寺<br>
+<b>住所:</b> 東京都日野市万願寺２丁目２４−７ 万願寺タウンビル 2F<br>
+<b>内 容:</b> 子どもの“こころ”相談<br>
+<b>問合せ先:</b> 586-1312<br>
+<b>備考(場所,注意事項など):</b> センター本部・心理相談員(予約制)
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:00 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>地域子ども家庭支援センター万願寺</value>
+			</Data>
+			<Data name="内 容">
+				<value>子どもの“こころ”相談</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>586-1312</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>センター本部・心理相談員(予約制)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4209483,35.6710632,500</coordinates>
+		</Point>
+		<coordinates>
+					139.417393840187,35.6683973551405,0 139.417393840187,35.6737290448595,0 139.424502759813,35.6737290448595,0 139.424502759813,35.6683973551405,0 139.417393840187,35.6683973551405,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>12</name>
+		<address>東京都日野市平山３丁目２６−３</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 12<br>
+<b>曜日:</b> 土<br>
+<b>時間:</b> 10:30 ~ 12:00<br>
+<b>イベント担当施設・団体名:</b> ひらやま児童館<br>
+<b>住所:</b> 東京都日野市平山３丁目２６−３<br>
+<b>内 容:</b> もちつき<br>
+<b>問合せ先:</b> 592-6811<br>
+<b>備考(場所,注意事項など):</b> 要申込
+</div>]]></description>
+		<styleUrl>#Style7-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>土</value>
+			</Data>
+			<Data name="時間">
+				<value>10:30 ~ 12:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>ひらやま児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>もちつき</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>592-6811</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>要申込</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.385059,35.6457791,500</coordinates>
+		</Point>
+		<coordinates>
+					139.381503410652,35.6431124079893,0 139.381503410652,35.6484457920107,0 139.388614589348,35.6484457920107,0 139.388614589348,35.6431124079893,0 139.381503410652,35.6431124079893,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市高幡1011</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 10:00 ~ 12:00<br>
+<b>イベント担当施設・団体名:</b> 0歳児ステーション・おむすび<br>
+<b>住所:</b> 東京都日野市高幡1011<br>
+<b>内 容:</b> わらべ唄講座~らくらく子育て子ども と楽しい時間を作ろう9<br>
+<b>問合せ先:</b> 599-7091<br>
+<b>備考(場所,注意事項など):</b> 対象3~11カ月、要予約2回シリーズ9と 10で1000円 福祉支援センター会議室
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:00 ~ 12:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>0歳児ステーション・おむすび</value>
+			</Data>
+			<Data name="内 容">
+				<value>わらべ唄講座~らくらく子育て子ども と楽しい時間を作ろう9</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>599-7091</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>対象3~11カ月、要予約2回シリーズ9と 10で1000円 福祉支援センター会議室</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4159497,35.6621613,500</coordinates>
+		</Point>
+		<coordinates>
+					139.412394845398,35.6594951590488,0 139.412394845398,35.6648274409512,0 139.419504554602,35.6648274409512,0 139.419504554602,35.6594951590488,0 139.412394845398,35.6594951590488,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>13</name>
+		<address>東京都日野市万願寺２丁目２４−７ 万願寺タウンビル 2F</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 13<br>
+<b>曜日:</b> 日<br>
+<b>時間:</b> 15:00 ~ 16:15 事前申込制<br>
+<b>イベント担当施設・団体名:</b> 地域子ども家庭支援センター万願寺<br>
+<b>住所:</b> 東京都日野市万願寺２丁目２４−７ 万願寺タウンビル 2F<br>
+<b>内 容:</b> ベビーマッサージ(パパも一緒にどう ぞ!)<br>
+<b>問合せ先:</b> 586-1312<br>
+<b>備考(場所,注意事項など):</b> 生後3~5カ月児と保護者対象(初受講の方を 優先)詳細は地域子ども家庭支援センター万 願寺
+</div>]]></description>
+		<styleUrl>#Style8-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>日</value>
+			</Data>
+			<Data name="時間">
+				<value>15:00 ~ 16:15 事前申込制</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>地域子ども家庭支援センター万願寺</value>
+			</Data>
+			<Data name="内 容">
+				<value>ベビーマッサージ(パパも一緒にどう ぞ!)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>586-1312</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>生後3~5カ月児と保護者対象(初受講の方を 優先)詳細は地域子ども家庭支援センター万 願寺</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4209483,35.6710632,500</coordinates>
+		</Point>
+		<coordinates>
+					139.417393840187,35.6683973551405,0 139.417393840187,35.6737290448595,0 139.424502759813,35.6737290448595,0 139.424502759813,35.6683973551405,0 139.417393840187,35.6683973551405,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市程久保８７６−２</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 10:15 ~ 11:15<br>
+<b>イベント担当施設・団体名:</b> 子育てひろば程久保「あかいやね」<br>
+<b>住所:</b> 東京都日野市程久保８７６−２<br>
+<b>内 容:</b> 健康相談<br>
+<b>問合せ先:</b> 594-7841<br>
+<b>備考(場所,注意事項など):</b> 看護師が来所し一人ずつお話を伺います。
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:15 ~ 11:15</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>子育てひろば程久保「あかいやね」</value>
+			</Data>
+			<Data name="内 容">
+				<value>健康相談</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>594-7841</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>看護師が来所し一人ずつお話を伺います。</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4159171,35.6515765,500</coordinates>
+		</Point>
+		<coordinates>
+					139.412361773845,35.6489100053838,0 139.412361773845,35.6542429946162,0 139.419472426155,35.6542429946162,0 139.419472426155,35.6489100053838,0 139.412361773845,35.6489100053838,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市多摩平２丁目９</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 10:30 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> たまだいら児童館ふれっしゅ<br>
+<b>住所:</b> 東京都日野市多摩平２丁目９<br>
+<b>内 容:</b> プチすくすくクラブ(0歳自由参加ひろ ば)<br>
+<b>問合せ先:</b> 589-1253<br>
+<b>備考(場所,注意事項など):</b> たまだいら児童館ふれっしゅ 体育室 3カ月くらいから1歳までの親子対象
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:30 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>たまだいら児童館ふれっしゅ</value>
+			</Data>
+			<Data name="内 容">
+				<value>プチすくすくクラブ(0歳自由参加ひろ ば)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>589-1253</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>たまだいら児童館ふれっしゅ 体育室 3カ月くらいから1歳までの親子対象</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3823804,35.6633853,500</coordinates>
+		</Point>
+		<coordinates>
+					139.37882560023,35.6607192001727,0 139.37882560023,35.6660513998273,0 139.38593519977,35.6660513998273,0 139.38593519977,35.6607192001727,0 139.37882560023,35.6607192001727,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市栄町２丁目１３−４</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 10:30 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> さかえまち児童館<br>
+<b>住所:</b> 東京都日野市栄町２丁目１３−４<br>
+<b>内 容:</b> 移動児童館 みんなであそぼう IN七ツ塚ファー マーズ<br>
+<b>問合せ先:</b> 585-8281<br>
+<b>備考(場所,注意事項など):</b> さかえまち児童館 七ツ塚ファーマーズセンター
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:30 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>さかえまち児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>移動児童館 みんなであそぼう IN七ツ塚ファー マーズ</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>585-8281</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>さかえまち児童館 七ツ塚ファーマーズセンター</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3917066,35.683214,500</coordinates>
+		</Point>
+		<coordinates>
+					139.388152677539,35.6805485581541,0 139.388152677539,35.6858794418459,0 139.395260522461,35.6858794418459,0 139.395260522461,35.6805485581541,0 139.388152677539,35.6805485581541,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市平山３丁目２６−３</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 11:00 ~ 14:30<br>
+<b>イベント担当施設・団体名:</b> ひらやま児童館<br>
+<b>住所:</b> 東京都日野市平山３丁目２６−３<br>
+<b>内 容:</b> おひさまタイム (乳幼児自由参加ひろば)<br>
+<b>問合せ先:</b> 592-6811<br>
+<b>備考(場所,注意事項など):</b> 上田地区センター
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>11:00 ~ 14:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>ひらやま児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>おひさまタイム (乳幼児自由参加ひろば)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>592-6811</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>上田地区センター</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.385059,35.6457791,500</coordinates>
+		</Point>
+		<coordinates>
+					139.381503410652,35.6431124079893,0 139.381503410652,35.6484457920107,0 139.388614589348,35.6484457920107,0 139.388614589348,35.6431124079893,0 139.381503410652,35.6431124079893,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>10</name>
+		<address>東京都日野市大字石田431−6</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 10<br>
+<b>曜日:</b> 木<br>
+<b>時間:</b> 9:15 ~ 11:00<br>
+<b>イベント担当施設・団体名:</b> 第四幼稚園<br>
+<b>住所:</b> 東京都日野市大字石田431−6<br>
+<b>内 容:</b> ひよこの日「作ってみよう!クリスマス 飾り」<br>
+<b>問合せ先:</b> 583-3903<br>
+<b>備考(場所,注意事項など):</b> 持ち物:上履き(親子とも)、着替え
+</div>]]></description>
+		<styleUrl>#Style5-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>木</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:15 ~ 11:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>第四幼稚園</value>
+			</Data>
+			<Data name="内 容">
+				<value>ひよこの日「作ってみよう!クリスマス 飾り」</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>583-3903</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>持ち物:上履き(親子とも)、着替え</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4176533,35.6778429,500</coordinates>
+		</Point>
+		<coordinates>
+					139.414099136279,35.6751772772092,0 139.414099136279,35.6805085227908,0 139.421207463721,35.6805085227908,0 139.421207463721,35.6751772772092,0 139.414099136279,35.6751772772092,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>7</name>
+		<address>東京都日野市程久保６５０</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 7<br>
+<b>曜日:</b> 月<br>
+<b>時間:</b> 10:00 ~ 11:00<br>
+<b>イベント担当施設・団体名:</b> たかはた台保育園<br>
+<b>住所:</b> 東京都日野市程久保６５０<br>
+<b>内 容:</b> 保育園であそぼう<br>
+<b>問合せ先:</b> 591-2231<br>
+<b>備考(場所,注意事項など):</b> 
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>月</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:00 ~ 11:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>たかはた台保育園</value>
+			</Data>
+			<Data name="内 容">
+				<value>保育園であそぼう</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>591-2231</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4126423,35.6530845,500</coordinates>
+		</Point>
+		<coordinates>
+					139.409087039643,35.6504180547324,0 139.409087039643,35.6557509452676,0 139.416197560357,35.6557509452676,0 139.416197560357,35.6504180547324,0 139.409087039643,35.6504180547324,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>7</name>
+		<address>東京都日野市旭が丘2丁目42-5</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 7<br>
+<b>曜日:</b> 月<br>
+<b>時間:</b> 10:30 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> あさひがおか児童館<br>
+<b>住所:</b> 東京都日野市旭が丘2丁目42-5<br>
+<b>内 容:</b> すくすくクラブ 歌をうたったり、手遊びをしたり、友だ ちを作ったり、、、楽しい時間を過ごし ましょう<br>
+<b>問合せ先:</b> 583-4346<br>
+<b>備考(場所,注意事項など):</b> 3カ月~12カ月くらいまでの赤ちゃんと保 護者対象。申し込みはいりません。直接、 会場にどうぞ!実施内容のお問い合わせ は各児童館へお願いします。
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>月</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:30 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>あさひがおか児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>すくすくクラブ 歌をうたったり、手遊びをしたり、友だ ちを作ったり、、、楽しい時間を過ごし ましょう</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>583-4346</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>3カ月~12カ月くらいまでの赤ちゃんと保 護者対象。申し込みはいりません。直接、 会場にどうぞ!実施内容のお問い合わせ は各児童館へお願いします。</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3691649,35.6631354,500</coordinates>
+		</Point>
+		<coordinates>
+					139.365610089264,35.6604692919479,0 139.365610089264,35.6658015080521,0 139.372719710736,35.6658015080521,0 139.372719710736,35.6604692919479,0 139.365610089264,35.6604692919479,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>8</name>
+		<address>日野市旭が丘２丁目４２−１</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 8<br>
+<b>曜日:</b> 火<br>
+<b>時間:</b> 9:30 ~ 10:00頃<br>
+<b>イベント担当施設・団体名:</b> あさひがおか保育園<br>
+<b>住所:</b> 日野市旭が丘２丁目４２−１<br>
+<b>内 容:</b> 保育園見学会<br>
+<b>問合せ先:</b> 581-7676<br>
+<b>備考(場所,注意事項など):</b> 保育園の見学を行います。合わせて子育 て相談も受け付けます。※およそ30分程 度の見学になります。
+</div>]]></description>
+		<styleUrl>#Style3-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>火</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:30 ~ 10:00頃</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>あさひがおか保育園</value>
+			</Data>
+			<Data name="内 容">
+				<value>保育園見学会</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>581-7676</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>保育園の見学を行います。合わせて子育 て相談も受け付けます。※およそ30分程 度の見学になります。</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3683594,35.6626437,500</coordinates>
+		</Point>
+		<coordinates>
+					139.364804567331,35.6599775754983,0 139.364804567331,35.6653098245016,0 139.371914232669,35.6653098245016,0 139.371914232669,35.6599775754983,0 139.364804567331,35.6599775754983,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>8</name>
+		<address>東京都日野市程久保８７６−２</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 8<br>
+<b>曜日:</b> 火<br>
+<b>時間:</b> 10:15 ~ 11:15<br>
+<b>イベント担当施設・団体名:</b> 子育てひろば程久保「あかいやね」<br>
+<b>住所:</b> 東京都日野市程久保８７６−２<br>
+<b>内 容:</b> お花のお部屋<br>
+<b>問合せ先:</b> 594-7841<br>
+<b>備考(場所,注意事項など):</b> 先着8名様。お話しながら生花に触れま しょう。
+</div>]]></description>
+		<styleUrl>#Style3-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>火</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:15 ~ 11:15</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>子育てひろば程久保「あかいやね」</value>
+			</Data>
+			<Data name="内 容">
+				<value>お花のお部屋</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>594-7841</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>先着8名様。お話しながら生花に触れま しょう。</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4159171,35.6515765,500</coordinates>
+		</Point>
+		<coordinates>
+					139.412361773845,35.6489100053838,0 139.412361773845,35.6542429946162,0 139.419472426155,35.6542429946162,0 139.419472426155,35.6489100053838,0 139.412361773845,35.6489100053838,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>8</name>
+		<address>東京都日野市平山３丁目２６−３</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 8<br>
+<b>曜日:</b> 火<br>
+<b>時間:</b> 10:30 ~ 12:00頃<br>
+<b>イベント担当施設・団体名:</b> ひらやま児童館<br>
+<b>住所:</b> 東京都日野市平山３丁目２６−３<br>
+<b>内 容:</b> プレイルーム「ボールプールの日」<br>
+<b>問合せ先:</b> 592-6811<br>
+<b>備考(場所,注意事項など):</b> 
+</div>]]></description>
+		<styleUrl>#Style3-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>火</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:30 ~ 12:00頃</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>ひらやま児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>プレイルーム「ボールプールの日」</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>592-6811</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.385059,35.6457791,500</coordinates>
+		</Point>
+		<coordinates>
+					139.381503410652,35.6431124079893,0 139.381503410652,35.6484457920107,0 139.388614589348,35.6484457920107,0 139.388614589348,35.6431124079893,0 139.381503410652,35.6431124079893,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>8</name>
+		<address>東京都日野市南平6丁目12番地の113</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 8<br>
+<b>曜日:</b> 火<br>
+<b>時間:</b> 11:30 ~ 12:00<br>
+<b>イベント担当施設・団体名:</b> みなみだいら児童館ぷらねっと<br>
+<b>住所:</b> 東京都日野市南平6丁目12番地の113<br>
+<b>内 容:</b> ママのほ~っとタイム<br>
+<b>問合せ先:</b> 599-0166<br>
+<b>備考(場所,注意事項など):</b> ママ向けストレッチ・音楽タイムなど
+</div>]]></description>
+		<styleUrl>#Style3-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>火</value>
+
+			</Data>
+			<Data name="時間">
+				<value>11:30 ~ 12:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>みなみだいら児童館ぷらねっと</value>
+			</Data>
+			<Data name="内 容">
+				<value>ママのほ~っとタイム</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>599-0166</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>ママ向けストレッチ・音楽タイムなど</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3930456,35.6564123,500</coordinates>
+		</Point>
+		<coordinates>
+					139.389490482206,35.6537459616544,0 139.389490482206,35.6590786383456,0 139.396600717794,35.6590786383456,0 139.396600717794,35.6537459616544,0 139.389490482206,35.6537459616544,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市程久保６５０</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 9:15 ~ 11:00<br>
+<b>イベント担当施設・団体名:</b> たかはた台保育園<br>
+<b>住所:</b> 東京都日野市程久保６５０<br>
+<b>内 容:</b> わんぱく座リハーサル<br>
+<b>問合せ先:</b> 591-2231<br>
+<b>備考(場所,注意事項など):</b> 
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:15 ~ 11:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>たかはた台保育園</value>
+			</Data>
+			<Data name="内 容">
+				<value>わんぱく座リハーサル</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>591-2231</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4126423,35.6530845,500</coordinates>
+		</Point>
+		<coordinates>
+					139.409087039643,35.6504180547324,0 139.409087039643,35.6557509452676,0 139.416197560357,35.6557509452676,0 139.416197560357,35.6504180547324,0 139.409087039643,35.6504180547324,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>9</name>
+		<address>東京都日野市日野本町３丁目３−３</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 9<br>
+<b>曜日:</b> 水<br>
+<b>時間:</b> 9:20 ~ 10:00<br>
+<b>イベント担当施設・団体名:</b> しせい太陽の子保育園<br>
+<b>住所:</b> 東京都日野市日野本町３丁目３−３<br>
+<b>内 容:</b> 体験保育(リズム)<br>
+<b>問合せ先:</b> 586-6433<br>
+<b>備考(場所,注意事項など):</b> 要予約 1~3歳までのお子様対象
+</div>]]></description>
+		<styleUrl>#Style4-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>水</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:20 ~ 10:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>しせい太陽の子保育園</value>
+			</Data>
+			<Data name="内 容">
+				<value>体験保育(リズム)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>586-6433</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>要予約 1~3歳までのお子様対象</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.3931178,35.677309,500</coordinates>
+		</Point>
+		<coordinates>
+					139.389563614346,35.6746433607597,0 139.389563614346,35.6799746392403,0 139.396671985654,35.6799746392403,0 139.396671985654,35.6746433607597,0 139.389563614346,35.6746433607597,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>10</name>
+		<address>東京都日野市百草１００６−２</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 10<br>
+<b>曜日:</b> 木<br>
+<b>時間:</b> 9:45 ~ 11:00<br>
+<b>イベント担当施設・団体名:</b> 杉野幼稚園<br>
+<b>住所:</b> 東京都日野市百草１００６−２<br>
+<b>内 容:</b> 親子で遊ぼう!(簡単制作・手遊びな ど)<br>
+<b>問合せ先:</b> 591-3515<br>
+<b>備考(場所,注意事項など):</b> 申込み不要・参加費無料・上履き持参
+</div>]]></description>
+		<styleUrl>#Style5-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>木</value>
+
+			</Data>
+			<Data name="時間">
+				<value>9:45 ~ 11:00</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>杉野幼稚園</value>
+			</Data>
+			<Data name="内 容">
+				<value>親子で遊ぼう!(簡単制作・手遊びな ど)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>591-3515</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>申込み不要・参加費無料・上履き持参</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4221806,35.6474355,500</coordinates>
+		</Point>
+		<coordinates>
+					139.418625087417,35.6447688655627,0 139.418625087417,35.6501021344373,0 139.425736112583,35.6501021344373,0 139.425736112583,35.6447688655627,0 139.418625087417,35.6447688655627,0 
+				</coordinates>
+	</Placemark>
+	<Placemark>
+		<name>10</name>
+		<address>東京都日野市百草 もぐさだい児童館</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="googft-info-window">
+<b>実施日:</b> 10<br>
+<b>曜日:</b> 木<br>
+<b>時間:</b> 10:10 ~ 11:30<br>
+<b>イベント担当施設・団体名:</b> もぐさだい児童館<br>
+<b>住所:</b> 東京都日野市百草 もぐさだい児童館<br>
+<b>内 容:</b> こあらひろば(幼児の日&amp;こあらひろ ばクリスマス会)<br>
+<b>問合せ先:</b> 591-7001<br>
+<b>備考(場所,注意事項など):</b> もぐさだい児童館 0歳~未就園児と保護者
+</div>]]></description>
+		<styleUrl>#Style5-point-1-map</styleUrl>
+		<ExtendedData>
+			<Data name="曜日">
+				<value>木</value>
+
+			</Data>
+			<Data name="時間">
+				<value>10:10 ~ 11:30</value>
+			</Data>
+			<Data name="イベント担当施設・団体名">
+				<value>もぐさだい児童館</value>
+			</Data>
+			<Data name="内 容">
+				<value>こあらひろば(幼児の日&amp;こあらひろ ばクリスマス会)</value>
+			</Data>
+			<Data name="問合せ先">
+				<value>591-7001</value>
+			</Data>
+			<Data name="備考(場所,注意事項など)">
+				<value>もぐさだい児童館 0歳~未就園児と保護者</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.4181892,35.6526172,500</coordinates>
+		</Point>
+		<coordinates>
+					139.41463391771,35.6499507382828,0 139.41463391771,35.6552836617172,0 139.42174448229,35.6552836617172,0 139.42174448229,35.6499507382828,0 139.41463391771,35.6499507382828,0 
+				</coordinates>
+	</Placemark>
+</Document>
+</kml>
