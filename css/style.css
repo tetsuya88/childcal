@@ -129,6 +129,7 @@ button.cesium-infoBox-close {
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
+    z-index:10005;
 }
 
 #slide_menu2{
@@ -214,10 +215,11 @@ input {
 .textbox {
 	border:0;
 	margin:0px;
-	padding:0px 0px 1px 2px;
-	font-size:12px;
+	padding:0px 0px 0px 0px;
+	font-size:13px;
 	width:100px;
 	height:15px;
+    background-color: azure;
 }
 
 /* ストリートビュー関連 */
@@ -298,4 +300,5 @@ input {
     z-index: 100;
     top: 10%;
     left: 1%;
+    background-color: azure;
 }
