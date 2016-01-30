@@ -209,7 +209,7 @@ function loadKml(){
 		i++;
 		if (i == kmlDataArray.length){
             console.log (kmlDataSource.entities._entities._array);
-            //createModel('http://localhost/cesium/data/kml/circle.gltf',0,35.656298,139.38229);
+            
 			clearInterval(load);
 			setClickEvent();
 			setTimeout('fadeInOut(blackOutDiv,0)',3000);
@@ -240,7 +240,7 @@ function openStreetMapLayer (){
 		this.overlayObj = _overlayObj;
 		this.id = _id;
 	}
-	overlayDataArray[0]=new overlayData("現在の地図",100,openStreetMap,"range01");
+	overlayDataArray[0]=new overlayData("衛星写真←→地図",100,openStreetMap,"range01");
 
 	var overlayList = "";
 	for (var i=0; i<overlayDataArray.length; i++) {
@@ -377,7 +377,7 @@ function flyToMyLocation() {
 //ヘルプ
 
 function help(){
-	window.open('http://labo.wtnv.jp/');
+	window.open('callenderinfo/takabo.html');
 }
 
 //DIVのフェードイン・アウト	関数
@@ -699,8 +699,9 @@ function addOptions() {
 }
 addOptions();
     
-</script>
+
     
+</script>
     
     <div id='logo'><img src="logo.png"></div>   
     

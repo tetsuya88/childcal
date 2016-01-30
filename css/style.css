@@ -304,6 +304,13 @@ input {
     
 }
 
+#weekbtn{
+    position:absolute;
+    z-index: 10000;
+    top:20%;
+    left:1%;
+}
+
 #logo{
     position:absolute;
     z-index: 10000;
